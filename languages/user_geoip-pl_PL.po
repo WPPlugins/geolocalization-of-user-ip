@@ -1,0 +1,22 @@
+msgid ""
+msgstr ""
+"Last-Translator: Sławek Kapłoński <slawek@kaplonski.pl>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Language-Team: \n"
+
+#user_geoip.php:38
+msgid "User localization"
+msgstr "Geolokalizacja"
+
+#user_geoip_widget_class.php:17
+msgid "Your IP: "
+msgstr "Twoje IP: "
+
+#user_geoip_widget_class.php:57
+msgid "Source: "
+msgstr "Źródło: "

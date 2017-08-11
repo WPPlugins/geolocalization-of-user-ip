@@ -1,0 +1,10 @@
+#geoip_map_canvas{
+    width: 95%;
+    height: 200px;
+    border: 2px ridge gainsboro;
+    border-radius: 15px;
+}
+
+#geoip_source_info{
+    font-size: 10px;   
+}
